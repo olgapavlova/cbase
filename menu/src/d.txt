@@ -1,0 +1,5 @@
+item d = { 'd', dbl };
+item p = { 'p', print };
+item s = { 's', str };
+item q = { '^', sqr };
+
