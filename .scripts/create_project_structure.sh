@@ -34,6 +34,8 @@ dirs=(
 	data
 	logs
 	tests
+	gcov
+	report
 )
 for item in "${dirs[@]}"; do
 	mkdir $item
